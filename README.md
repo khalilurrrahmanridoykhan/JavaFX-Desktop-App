@@ -1,6 +1,6 @@
-# HelloFX
+# JavaFX Bangladesh Map
 
-A minimal JavaFX app created with Maven.
+Interactive JavaFX map viewer with zoom, pan, hover effects, tooltips, and animated markers.
 
 ## Run
 
@@ -8,5 +8,7 @@ A minimal JavaFX app created with Maven.
 mvn clean javafx:run
 ```
 
-If you want to package a runnable JAR later, we can add that next.
-# JavaFX-Desktop-App
+## Map Source
+
+SVG map downloaded from Simplemaps (Bangladesh admin1).
+https://simplemaps.com/resources/svg-bd

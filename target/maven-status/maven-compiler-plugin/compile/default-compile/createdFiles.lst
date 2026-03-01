@@ -1,1 +1,5 @@
 com/example/App.class
+com/example/MapController.class
+com/example/MapView$MapRegion.class
+com/example/MapView.class
+com/example/Main.class
